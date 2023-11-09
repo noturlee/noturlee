@@ -6,7 +6,7 @@
 
 <img align="right" alt ="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🔭 I’m currently working on **Medical Software**
+- 🔭 I’m currently working on **Medical Software & API's**
 
 - 🌱 I’m currently learning **Data Analytics**
 
