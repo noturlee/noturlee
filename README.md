@@ -2,7 +2,37 @@
 <h1 align="center">Hi 👋, I'm Leighché</h1>
 <h3 align="center">A passionate Full-Stack developer from the beautiful South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noturlee&label=Profile%20views&color=0e75b6&style=flat" alt="noturlee" /> </p>
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    </a>
+        <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
+       <img src="https://komarev.com/ghpvc/?username=noturlee&label=Profile%20views&color=0e75b6&style=flat" alt="noturlee" />
+    </a>
+    <br />
+    <br />
+  </p>
+
 
 <img align="right" alt ="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
@@ -38,7 +68,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noturlee&layout=compact&langs_count=8)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noturlee&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noturlee&show_icons=true&locale=en&theme=material-palenight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noturlee&)
 
