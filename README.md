@@ -34,7 +34,7 @@
   </p>
 
 
-<img align="right" alt ="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt ="Coding" width="400" src="https://media0.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif?cid=6c09b9528nu80cihkjfk7eq4098sz6qqlroead8krqyoosep&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
 - 🔭 I’m currently working on **Medical Software & API's**
 
