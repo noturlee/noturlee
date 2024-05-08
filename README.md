@@ -1,4 +1,4 @@
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://noturlee.io)
+[![MasterHead](Leighché.gif)](https://noturlee.io)
 <h1 align="center">Hi 👋, I'm Leighché</h1>
 <h3 align="center">A passionate Full-Stack developer from the beautiful South Africa</h3>
 
