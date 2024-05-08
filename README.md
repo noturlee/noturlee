@@ -35,7 +35,7 @@
   </p>
 
 
-<img align="right" alt ="Coding" width="400" src="Images/show">
+<img align="right" alt ="Coding" width="400" src="Images/show.gif">
 
 - 🔭 I’m currently working on **Medical Software & API's**
 
