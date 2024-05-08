@@ -1,4 +1,4 @@
-[![MasterHead](Leighché.gif)](https://noturlee.io)
+[![MasterHead](Images/Leighché.gif)](https://noturlee.io)
 <h1 align="center">Hi 👋, I'm Leighché</h1>
 <h3 align="center">A passionate Full-Stack developer from the beautiful South Africa</h3>
 
