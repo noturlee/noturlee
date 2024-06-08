@@ -48,7 +48,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/leighché/](https://www.linkedin.com/in/leighché/)
 
-- 💬 Ask me about **react, Java,C#, Oracle, MySql, NodeJs**
+- 💬 Ask me about **React, Java,C#, Oracle, SSMS/MySQL, Power BI**
 
 - 📫 How to reach me **LeighcheLeighche28@gmail.com**
 
