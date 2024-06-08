@@ -1,10 +1,10 @@
 ![Description](Images/Display.gif)
 
 <h1 align="center">Hi 👋, I'm Leighché</h1>
-<h3 align="center">A passionate Full-Stack developer from the beautiful South Africa</h3>
+<h3 align="center">A passionate aspiring BI Architect from the beautiful South Africa</h3>
 
 <p align="center">
- <img width="300px" src="https://i.pinimg.com/originals/f3/3d/05/f33d05ca42e5d1934b120279e1a1c12b.gif" align="center" alt="GitHub Readme Stats" />
+ <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-South-Africa.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Leighché's GitHub Readme Stats</h2>
 </p>
 
