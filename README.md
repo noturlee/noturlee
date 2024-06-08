@@ -4,7 +4,7 @@
 <h3 align="center">A passionate aspiring BI Architect from the beautiful South Africa</h3>
 
 <p align="center">
- <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-South-Africa.gif" align="center" alt="GitHub Readme Stats" />
+ <img width="300px" src="https://usagif.com/wp-content/uploads/2020/11/am0ngsusxh-43.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Leighché's GitHub Readme Stats</h2>
 </p>
 
