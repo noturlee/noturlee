@@ -1,4 +1,4 @@
-![Description](Images/Display.gif)
+![bannerGit](https://github.com/noturlee/noturlee/assets/100778149/c9d3f817-9d2a-4316-90af-b02c233434bb)
 
 <h1 align="center">Hi 👋, I'm Leighché</h1>
 <h3 align="center">A passionate aspiring BI Architect from the beautiful South Africa</h3>
