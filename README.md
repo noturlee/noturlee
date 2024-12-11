@@ -1,7 +1,7 @@
 ![bannerGit](https://github.com/noturlee/noturlee/assets/100778149/c9d3f817-9d2a-4316-90af-b02c233434bb)
 
 <h1 align="center">Hi 👋, I'm Leighché</h1>
-<h3 align="center">A passionate aspiring BI Architect from the beautiful South Africa</h3>
+<h3 align="center">A passionate aspiring Developer from the beautiful South Africa</h3>
 
 <p align="center">
  <img width="300px" src="https://usagif.com/wp-content/uploads/2020/11/am0ngsusxh-43.gif" align="center" alt="GitHub Readme Stats" />
@@ -38,7 +38,7 @@
 
 <img align="right" alt ="Coding" width="400" src="Images/show.gif">
 
-- 🔭 I’m currently working on **Medical Software & API's**
+- 🔭 I’m currently working on **Different Software's & API's**
 
 - 🌱 I’m currently learning **Data Analytics**
 
