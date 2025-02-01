@@ -2,10 +2,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Leighché</h1>
-<h3 align="center">A passionate aspiring Developer from the beautiful South Africa</h3>
+<h3 align="center">A passionate Business Analyst from the beautiful South Africa</h3>
 
 <p align="center">
- <img width="300px" src="https://usagif.com/wp-content/uploads/2020/11/am0ngsusxh-43.gif" align="center" alt="GitHub Readme Stats" />
+ <img width="300px" src="https://i.pinimg.com/originals/0a/12/68/0a12681d62dc1355f7f5dca41355f833.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Leighché's GitHub Readme Stats</h2>
 </p>
 
@@ -43,13 +43,13 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👯 I’m looking to collaborate on **Anything Full-Stack**
+- 👯 I’m looking to collaborate on **Anything Data Centered**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noturlee/noturlee/](https://github.com/noturlee/noturlee/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/leighché/](https://www.linkedin.com/in/leighché/)
 
-- 💬 Ask me about **React, Java,C#, Oracle, SSMS/MySQL, Power BI**
+- 💬 Ask me about **Python, Tableau,C#, Oracle, SSMS/MySQL, Power BI**
 
 - 📫 How to reach me **LeighcheLeighche28@gmail.com**
 
@@ -60,7 +60,7 @@
 <img src ="https://img.wattpad.com/103dcfce32bc7ad7fd52574c10f7f693f8fb051c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f615568507a5343696465576372673d3d2d3738323530383231342e313563646231633864386262363234313135353537353638353330302e676966" width=100 height=auto/>
 <br>
 
-<h2 align="center">Why I Chose Business Intelligence</h2>
+<h2 align="center">Why I Chose to be a Business Analyst</h2>
 
 <p>I pursued a Bachelor of Computer and Information Science degree, and as I approached the point of specialization, I realized that a traditional software development role wasn't the right fit for me. I excelled in UI/UX design, but found that it didn't have the demand I was looking for and it was too easy for me. Similarly, coding in a software development space was also straightforward; I was too good at it and yearned for something more challenging and versatile.</p>
 
